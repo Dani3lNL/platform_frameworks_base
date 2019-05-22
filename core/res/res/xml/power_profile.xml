@@ -103,7 +103,7 @@
         wifi.tx for other chipsets. none by default -->
   <array name="wifi.controller.tx_levels"> <!-- mA -->
   </array>
-  <!-- Operating volatage for wifi radio in mV. 0 by default-->
+  <!-- Operating voltage for wifi radio in mV. 0 by default-->
   <item name="wifi.controller.voltage">0</item>
 
   <array name="wifi.batchedscan"> <!-- mA -->
